@@ -13,7 +13,7 @@
 } 
 body{
     margin: 0;
-    background: linear-gradient(to bottom right, yellow, lightblue, yellow);
+    background: linear-gradient(to bottom right, rgb(17, 0, 255), lightblue, rgb(0, 234, 255));
     min-height: 100vh;
     display: flex;
     justify-content: center;
